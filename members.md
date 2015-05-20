@@ -252,6 +252,7 @@ Format:
 | Shin S | [fmazon3](https://github.com/fmazon3) | I know basics for programming. Looking to get myself to learn algorithms |
 | Shunichi Otsuka | [vascoosx](https://github.com/vascoosx) ||
 | Sidd Tewari | [siddtewari](https://github.com/siddtewari) | Inter-beginner with Python and Ruby, getting started with Django. Next Targets - JavaScript and Objective-C. |
+| SJ Hadley | [SJ-Hadley](https://github.com/SJ-Hadley) | Mostly self-taught; have some PHP, C languages, and very little Python. Looking to take my measure and improve. |
 | Spencer Cutrell | [QSpec](https://github.com/qspec) | Very new.  Interested in Java for now.|
 | Spencer Zhang | [Spencer-Zhang](https://github.com/Spencer-Zhang) | Programming newbie with some knowledge of C++ and Python. Looking to gain some more experience with programming. |
 | Sriharsha Bandaru | [harshabandaru](https://github.com/harshabandaru) | I have a bit of experience in programming . Trying to improve my programming skills and also contribute to open source. |
